@@ -10,4 +10,4 @@ GoST is a transpiler converting GeoSPARQL queries using geospatial topological f
     
 Execution:
 
-    java -cp target\GoST-1.0-SNAPSHOT.jar Transpiler query [output_file]
+    java -cp target\GoST-1.0-SNAPSHOT.jar gr.uoa.di.ai.gost.Transpiler query [output_file]
